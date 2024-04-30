@@ -1,0 +1,18 @@
+.box {
+  width: 250px;
+  height: 100px;
+  border: 2px solid firebrick;
+  background-color: aliceblue;
+}
+.den {
+  width: 50px;
+  height: 20px;
+  border: 2px solid firebrick;
+  background-color: rgb(3, 21, 21);
+}
+.trang {
+  width: 50px;
+  height: 20px;
+  border: 2px solid firebrick;
+  background-color: rgb(223, 235, 235);
+}
